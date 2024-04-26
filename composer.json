@@ -1,0 +1,17 @@
+{
+    "name": "vladviolentiy/transparent-encryption",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vladviolentiy\\TransparentEncryption\\": "backend/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vlad Violentiy",
+            "email": "vladviolentiy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
